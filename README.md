@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about N/A
 - 📫 How to reach me: using my mail id 
 
-- ⚡ Fun fact: I like to cook and eat
+- ⚡ Fun fact: Google is my friend.
 
