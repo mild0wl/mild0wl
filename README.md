@@ -5,13 +5,11 @@
 
 - I'm an OSCP certified
 
-- 🔭 I’m currently working on **mobile pentesting**
-
 - 🌱 I’m currently learning **mobile pentesting**
 
 - 🤝 I’m looking for help with **mobile bug hunting**
 
-- 📫 How to reach me **thokala.saikrishna@outlook.com**
+- 📫 How to reach me **mild0wl@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
