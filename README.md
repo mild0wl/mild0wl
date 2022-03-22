@@ -5,9 +5,9 @@
 
 - I'm an OSCP certified
 
-- 🌱 I’m currently learning **mobile pentesting**
+- 🌱 I’m currently learning **web/mobile pentesting** and preparing for OSWE certification.
 
-- 🤝 I’m looking for help with **mobile bug hunting**
+- 🤝 I’m looking for help with **mobile/web bug hunting** and lets together improvise the hacking knowledge.
 
 - 📫 How to reach me **mild0wl@outlook.com**
 
