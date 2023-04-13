@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Embeded Systems Hacking** and preparing for CRTO&CRTP certifications.
 
-- 🤝 I’m looking for help with **mobile/web bug hunting** and lets together improvise the hacking knowledge.
+- 🤝 I’m looking for help with **Embedded and IOT bug hunting** and lets together improvise the hacking knowledge.
 
 - 📫 How to reach me **mild0wl@outlook.com**
 
