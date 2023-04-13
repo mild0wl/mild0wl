@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sai Krishna</h1>
-<h3 align="center">A passionate information Security Geek from India</h3>
+<h3 align="center">A passionate information Security Geek :)</h3>
 
 <p align="left"> <a href="https://twitter.com/mild0wl" target="blank"><img src="https://img.shields.io/twitter/follow/mild0wl?logo=twitter&style=for-the-badge" alt="mild0wl" /></a> </p>
 
 - I'm an OSCP certified
 
-- 🌱 I’m currently learning **web/mobile pentesting** and preparing for OSWE certification.
+- 🌱 I’m currently learning **Embeded Systems Hacking** and preparing for CRTO&CRTP certifications.
 
 - 🤝 I’m looking for help with **mobile/web bug hunting** and lets together improvise the hacking knowledge.
 
