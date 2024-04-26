@@ -5,7 +5,7 @@
 
 - I'm an OSCP certified
 
-- 🌱 I’m currently learning **Embeded Systems Hacking** and preparing for CRTO&CRTP certifications.
+- 🌱 I’m currently learning **Embeded Systems Hacking** and preparing for OSWE certifications.
 
 - 🤝 I’m looking for help with **Embedded and IOT bug hunting** and lets together improvise the hacking knowledge.
 
