@@ -5,11 +5,9 @@
 
 - I'm an OSCP certified
 
-- 🌱 I’m currently learning **Embeded Systems Hacking** and preparing for OSWE certifications.
+- 🌱 I’m currently improving my skills in **Secure Code Review** and preparing for OSWE certification🤝.
 
-- 🤝 I’m looking for help with **Embedded and IOT bug hunting** and lets together improvise the hacking knowledge.
-
-- 📫 How to reach me **mild0wl@outlook.com**
+- 📫 How to reach me **thokala.saikrishna@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
