@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently improving my skills in **Secure Code Review** and preparing for OSWE certification🤝.
 
-- 📫 How to reach me **thokala.saikrishna@outlook.com**
+- 📫 To collaborate reach me by **mild0wl@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
