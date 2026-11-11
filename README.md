@@ -5,7 +5,7 @@
 
 - I'm an OSCP certified
 
-- 🌱 I’m currently improving my skills in **Secure Code Review** and preparing for OSWE certification🤝.
+- 🌱 I’m currently improving my skills in AI Security.
 
 - 📫 To collaborate reach me by **mild0wl@outlook.com**
 
