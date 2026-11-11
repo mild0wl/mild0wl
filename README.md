@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sai Krishna</h1>
-<h3 align="center">A passionate information Security Geek :)</h3>
+<h3 align="center">A passionate information security geek :)</h3>
 
 <p align="left"> <a href="https://twitter.com/mild0wl" target="blank"><img src="https://img.shields.io/twitter/follow/mild0wl?logo=twitter&style=for-the-badge" alt="mild0wl" /></a> </p>
 
-- I'm an OSCP certified
+- I'm OSCP-certified.
 
-- 🌱 I’m currently improving my skills in AI Security.
+- 🌱 I’m currently improving my skills in AI security.
 
-- 📫 To collaborate reach me by **mild0wl@outlook.com**
+- 📫 To collaborate, reach me at **mild0wl@outlook.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +16,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mild0wl&show_icons=true&locale=en&layout=compact" alt="mild0wl" /></p>
-
